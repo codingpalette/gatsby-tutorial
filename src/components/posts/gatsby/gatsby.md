@@ -5,6 +5,10 @@ date: "2019-04-04"
 
 I just launched a new bootcamp!
 
+![Fox](./fox_img.jpg)
+
+![Img](./image01.svg)
+
 ## Topics Covered
 
 1. Gatsby
